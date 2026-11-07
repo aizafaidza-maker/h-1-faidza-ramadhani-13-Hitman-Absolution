@@ -2,4 +2,4 @@
 day-1
 nama 
 nim 
-kelas 
+kela
